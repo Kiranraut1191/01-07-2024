@@ -1,0 +1,41 @@
+Conditional Statements:
+	- if 
+	- if-else
+	- 	- applications of if-else
+			- nested if-else
+			- else-if ladder
+	- switch-case statement
+	- switch expression
+	
+for example: age >= 60
+				- retired
+				- still working
+				
+Conditional/Control Loops
+	
+	- for: values we can print both the direction(forward/backward)
+	
+	- enhanced for loop	
+	
+	- while - precondition validation
+	
+	- do-while : post condition validation
+
+	- Nested for Loop
+	
+		for()
+		{
+			for()
+			{
+			
+			}
+		}
+
+Jump Statements
+	- break - stop the loop/program execution
+	- continue - skips the value 
+	
+				
+
+	
+	
